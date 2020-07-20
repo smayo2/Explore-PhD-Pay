@@ -1,2 +1,3 @@
-# DSS-projects
-Projects in data science
+This project explores PhD stipends across universities. Dataset can be found in on the Kaggle website. The original data is from http://www.phdstipends.com/csv.
+
+A First Draft...
